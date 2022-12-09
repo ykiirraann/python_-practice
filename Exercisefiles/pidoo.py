@@ -5,3 +5,4 @@ def someFunction():
     # this prints def and This is a string
 someFunction()
 print(mystr)
+# hello pidooo
