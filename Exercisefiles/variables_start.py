@@ -57,3 +57,7 @@ print(mystr)
 
 del mystr    #deletes the previous var
 print(mystr)
+
+
+ball = "green";
+print(ball);
